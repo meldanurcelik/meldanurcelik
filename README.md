@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="35" height="35"/></a> 
 <a href="https://github.com/" target="_blank"> <img src="https://www.svgrepo.com/show/217753/github.svg" alt="github" width="30" height="30"/></a> 
-<a href="https://icons8.com/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="30" height="30"/> 
+<a href="https://www.postman.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="30" height="30"/> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"> </a> 
 <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="java" width="35" height="35"/>  <a 
