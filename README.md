@@ -1,4 +1,4 @@
-## Hi there, I'm Meldanur Çelik 👋
+<h1 align="center">Hi 👋, I'm Meldanur Çelik</h1>
 
 - 👩🏻‍🎓 I’m a Computer Engineer.
 - 👩🏻‍💻 I work as a QA/Test Engineer.
@@ -6,9 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/meldanurcelik/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="meldanurcelik" height="30" width="30" /></a>
-
-
+<a href="https://www.linkedin.com/in/meldanurcelik/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="meldanurcelik" height="30" width="30" /></a> 
+<a href="mailto:melda_celik@hotmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="meldanurcelik" height="35" width="35" /></a> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="35" height="35"/></a> 
@@ -24,7 +23,7 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" alt="idea" width="30" height="30"> </a>
 
 <br/>
-<br/>
+<h3 align="left">Github:</h3>
 <p>
 <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs?username=meldanurcelik&amp;show_icons=true&amp;theme=radical&amp;locale=en&amp;layout=compact"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meldanurcelik&amp;show_icons=true&amp;theme=radical&amp;locale=en&amp;layout=compact" alt="meldanurcelik"></a>
 </p>
