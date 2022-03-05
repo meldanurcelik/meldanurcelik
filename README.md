@@ -3,7 +3,7 @@
 - 👩🏻‍🎓 I’m a Computer Engineer.
 - 👩🏻‍💻 I work as a QA/Test Engineer.
 - 👀 I’m interested in manual test, test automation, analysis
-- 🌱 I’m currently learning selenium, cucumber
+- 🌱 I’m currently learning selenium, cucumber, appium
 - 📫 How to reach me: melda_celik@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
