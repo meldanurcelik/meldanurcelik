@@ -4,16 +4,6 @@
 - 👩🏻‍💻 I work as a QA/Test Engineer.
 - 👀 I’m interested in manual test, test automation, analysis
 - 🌱 I’m currently learning selenium, cucumber, appium
-- 📫 How to reach me: melda_celik@hotmail.com
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/meldanurcelik/" target="_blank"><img align="center"
-            src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="meldanur çelik" height="30" width="30" /> </a>
-    <a href="mailto:melda_celik@hotmail.com" target="_blank"><img align="center"
-            src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="meldanur çelik" height="35" width="35" />
-    </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
