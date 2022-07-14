@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Meldanur Çelik</h1>
+<h1 align="center">Hi 👋, I'm Meldanur</h1>
 
 - 👩🏻‍🎓 I’m a Computer Engineer.
 - 👩🏻‍💻 I work as a QA/Test Engineer.
-- 👀 I’m interested in manual test, test automation, analysis
-- 🌱 I’m currently learning selenium, cucumber, appium
+- 👀 I’m interested in manual test, web/mobile test, test automation, analysis
+- 🌱 I’m currently learning selenium, cucumber, appium, java
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -46,7 +46,7 @@
 <h3 align="left">Github:</h3>
 <p>
     <a target="_blank" rel="noopener noreferrer"
-        href="https://github-readme-stats.vercel.app/api/top-langs?username=meldanurcelik&amp;show_icons=true&amp;theme=radical&amp;locale=en&amp;layout=compact"><img
+        href="https://github.com/meldanurcelik?tab=repositories"><img
             align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=meldanurcelik&amp;show_icons=true&amp;theme=radical&amp;locale=en&amp;layout=compact"
             alt="meldanur çelik"></a>
