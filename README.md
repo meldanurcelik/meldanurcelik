@@ -42,12 +42,4 @@
             src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" alt="idea"
             width="30" height="30"> </a>
 </p>
-
-<h3 align="left">Github:</h3>
-<p>
-    <a target="_blank" rel="noopener noreferrer"
-        href="https://github.com/meldanurcelik?tab=repositories"><img
-            align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=meldanurcelik&amp;show_icons=true&amp;theme=radical&amp;locale=en&amp;layout=compact"
-            alt="meldanur çelik"></a>
-</p>
+ 
