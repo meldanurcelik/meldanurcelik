@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meldanur</h1>
+<h1 align="center">Hi 👋, I'm Melda</h1>
 
 - 👩🏻‍🎓 I’m a Computer Engineer.
 - 👩🏻‍💻 I work as a QA/Test Engineer.
