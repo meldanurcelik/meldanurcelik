@@ -3,6 +3,10 @@
 <p>- 👀 I am interested in manual testing, web/mobile testing, test automation, and business analysis.</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://www.java.com/" target="_blank"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZVaiVU3MbzG8_S4_5X00jN_VrzXadBo3T2tEHbO_eNjhIhk4SiGhc7dY&usqp=CAE&s" alt="java" height="30"> </a>
+    <a href="https://www.python.org/" target="_blank"> 
+        <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" height="30"> </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="35" height="35" /> </a>
     <a href="https://github.com/" target="_blank"> 
@@ -26,6 +30,6 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank"> 
         <img src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" alt="idea" width="30" height="30"> </a>
     <a href="https://www.browserstack.com/" target="_blank"> 
-        <img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg" alt="browserstack" height="30"> </a>
+        <img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo.svg" alt="browserstack" height="30"> </a>
 
 </p>
